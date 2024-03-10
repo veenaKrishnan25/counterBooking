@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2019-05/13/17/asset/buzzfeed-prod-web-03/sub-buzz-5358-1557784233-13.jpg");
+    background-size: cover;
+    font-family:  BlinkMacSystemFont;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+.container{
+
+   background-color: white;
+   max-width: 35%;
+   margin: auto;
+   border: 3px solid black;
+   border-radius: 10px;
+    
+
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button {
+    border: none;              
+    padding-top: 10px;         
+    padding-bottom: 10px;      
+    color: white;              
+    font-weight: bold;          
+    width: 200px;               
+    margin-bottom: 5px;        
+    border-radius: 5px;         
+}
+
+#increment-btn {
+    background: darkred;        
+}
+#save-btn {
+    background: darkgreen;
+}
